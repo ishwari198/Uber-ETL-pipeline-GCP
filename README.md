@@ -1,4 +1,4 @@
-# Mage Data Analytics | Advanced Data Engineering GCP Project
+# Advanced Data Engineering GCP Project | Mage | GCP | Looker studio | Big Query
 
 ## Overview
 
